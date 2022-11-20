@@ -1,3 +1,3 @@
 # JavaScript-Pokemon-Challenge
 JavaScript project
- Images gotten with the use of the pokemon Api
+ Images gotten from pokemon Api
